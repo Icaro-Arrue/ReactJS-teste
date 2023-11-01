@@ -1,0 +1,13 @@
+.titulo{
+    background-color: rgb(238, 224, 206);
+    text-indent: 2rem;
+}
+
+.conteudo{
+    text-indent: 1rem;
+    color: rgb(17, 10, 1)
+}
+
+.link{
+    color: brown;
+}
